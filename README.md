@@ -6,6 +6,6 @@ The HTML elements and CSS were restructured and put in sequential order. I also 
 
 ![screenshot](./assets/images/screenshot.PNG)
 
-Link:https://github.com/melbrewer323/Horiseon.git
+Link: https://melbrewer323.github.io/Horiseon/
 
 
